@@ -2,10 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import faker from 'faker';
 import CommentDetail from './CommentDetail';
+import 'bootstrap/dist/css/bootstrap.css';
 
 const App = () => {
 
-	const something = 'blabla';
 
 	return (
 		<div className='ui container comments'>
