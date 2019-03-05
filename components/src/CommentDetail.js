@@ -8,7 +8,7 @@ const CommentDetail = props => {
 
 		<div className="container">
 	   	
-	   		<div class="col align-self-center">
+	   		<div className="col align-self-center">
 
       		<div className='comment'>
 				<a href='/' className='avatar'>
